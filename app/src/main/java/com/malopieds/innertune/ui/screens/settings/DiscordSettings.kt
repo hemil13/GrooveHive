@@ -344,7 +344,7 @@ fun RichPresence(song: Song?) {
 
             OutlinedButton(
                 onClick = {
-                    val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/Malopieds/InnerTune"))
+                    val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/hemil13/GrooveHive"))
                     context.startActivity(intent)
                 },
                 modifier = Modifier.fillMaxWidth(),

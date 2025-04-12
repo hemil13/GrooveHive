@@ -1,8 +1,8 @@
-# InnerTune
+# GrooveHive
 
-<img src="https://raw.githubusercontent.com/Malopieds/InnerTune/dev/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" height="72">
+<img src="https://github.com/hemil13/GrooveHive/dev/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" height="72">
 
-A fork of InnerTune, A Material 3 YouTube Music client for Android
+A fork of GrooveHive, A Material 3 YouTube Music client for Android
 
 [![Latest release](https://img.shields.io/github/v/release/Malopieds/InnerTune?include_prereleases)](https://github.com/Malopieds/InnerTune/releases)
 [![License](https://img.shields.io/github/license/Malopieds/InnerTune)](https://www.gnu.org/licenses/gpl-3.0)
@@ -13,7 +13,7 @@ A fork of InnerTune, A Material 3 YouTube Music client for Android
 [<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" height="80">](https://apt.izzysoft.de/fdroid/index/apk/com.malopieds.innertune)
 
 <!---[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/com.zionhuang.music)
-[Compare versions](https://github.com/Malopieds/InnerTune/wiki/App-Versions) --->
+[Compare versions](https://github.com/hemil13/GrooveHive/wiki/App-Versions) --->
 
 ## Features
 
@@ -59,7 +59,7 @@ A fork of InnerTune, A Material 3 YouTube Music client for Android
 Use other music scrobbler apps. I
 recommend [Pano Scrobbler](https://play.google.com/store/apps/details?id=com.arn.scrobble).
 
-### Q: Why InnerTune isn't showing in Android Auto?
+### Q: Why GrooveHive isn't showing in Android Auto?
 
 1. Go to Android Auto's settings and tap multiple times on the version in the bottom to enable
    developer settings
@@ -74,7 +74,7 @@ before you create a pull request.
 
 <!--- ## Donate
 
-If you like InnerTune, you're welcome to send a donation. Donations will support the development,
+If you like GrooveHive, you're welcome to send a donation. Donations will support the development,
 including bug fixes and new features.
 
 <a href="https://liberapay.com/zionhuang"><img src="https://raw.githubusercontent.com/Malopieds/InnerTune/dev/assets/liberapay.png" alt="Liberapay" height="60" ></a>

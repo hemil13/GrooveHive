@@ -142,7 +142,7 @@ fun AboutScreen(
 
         Row {
             IconButton(
-                onClick = { uriHandler.openUri("https://github.com/Malopieds/InnerTune") },
+                onClick = { uriHandler.openUri("https://github.com/hemil13/GrooveHive") },
             ) {
                 Icon(
                     painter = painterResource(R.drawable.github),
