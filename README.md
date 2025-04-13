@@ -4,10 +4,6 @@
 A fork of GrooveHive, A Material 3 YouTube Music client for Android
 
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/Malopieds/InnerTune/releases/latest)
-[<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" height="80">](https://apt.izzysoft.de/fdroid/index/apk/com.malopieds.innertune)
-
-<!---[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/com.zionhuang.music)
-[Compare versions](https://github.com/hemil13/GrooveHive/wiki/App-Versions) --->
 
 ## Features
 
