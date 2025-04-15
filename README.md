@@ -42,12 +42,7 @@ A fork of GrooveHive, A Material 3 YouTube Music client for Android
 >If you're in a region where YouTube Music is not supported, you won't be able to use this app
 ***unless*** you have a proxy or VPN to connect to a YTM supported region.
 
-## FAQ
 
-### Q: How to scrobble music to LastFM, LibreFM, ListenBrainz or GNU FM?
-
-Use other music scrobbler apps. I
-recommend [Pano Scrobbler](https://play.google.com/store/apps/details?id=com.arn.scrobble).
 
 ### Q: Why GrooveHive isn't showing in Android Auto?
 
